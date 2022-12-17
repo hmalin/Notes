@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "d6ee8091dce777a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c36549c98c93f42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5339175ea579ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8565a8ebbaf20f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Automation & Orchestration/Ansible.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a74ce54d167617a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0830cc3f22c135e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3edc0133b7e3f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c463a6bb7bc8edf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a8ad3c043a27a697",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cee50f0449131f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf241248e64d77ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "537c8e52bf4993b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Automation & Orchestration/Ansible.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7077bcc436989da0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Automation & Orchestration/Ansible.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba13887adfa6e071",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc2fd81d0c218f03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Automation & Orchestration/Ansible.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8565a8ebbaf20f8c",
+  "lastOpenFiles": [
+    "Cloud/Fundimentals.md",
+    "Cloud/Azure.md",
+    "Cloud/AWS.md",
+    "Containers/Docker.md",
+    "Operating Systems/Linux.md",
+    "Pasted image 20221215031636.png",
+    "Pasted image 20221215031813.png",
+    "Pasted image 20221215031833.png",
+    "AWS.pdf",
+    "Operating Systems/Terminal setup.md"
+  ]
+}
